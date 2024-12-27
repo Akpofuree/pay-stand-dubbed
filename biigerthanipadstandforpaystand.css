@@ -1,0 +1,36 @@
+
+
+    *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    .forselect{
+        border: none;
+        background-color: transparent;
+    }
+   .forunderlyingimg36663{
+    display: none;
+   }
+   .fordifferentimages img{
+     width: 20%;
+   }
+   .fordifferentimages{
+    width: 50%;
+   }
+   .bigareas{
+    flex-wrap: nowrap;
+    display: flex;
+   }
+
+   .tuche{
+     flex-grow: 1;
+    }
+
+    
+.visible{
+    color: black;
+}
+      
+}
+
