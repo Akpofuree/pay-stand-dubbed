@@ -1,0 +1,173 @@
+
+     
+
+    *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+
+    .forselect{
+        display: none;
+    }
+
+     .visible{
+         display: flex;
+    }
+    .remover{
+        display: none;
+    }
+    .smallareabgblue{
+        display: flex;
+        flex: 1 1 20rem;
+        padding: 2rem;
+        flex-direction: column;
+    }
+    .win{
+        margin-left: 2rem;
+    }
+    .add{
+        margin-bottom: 1.05rem;
+        margin-left: 1rem;
+        margin-top: 1rem;
+        text-decoration: underline;
+    }
+    .forunderlyingimg36663{
+        display: none;
+    }
+    .firstbigarea{
+        display: flex;
+        
+        flex-direction: column;
+        padding: 2rem;
+        align-items: center;
+        width: 100%;
+        justify-content: center;
+    }
+     
+
+   /*  .choke{
+        display: flex;
+        flex-direction: column;
+        flex-grow: 1;
+        width: 90%;
+        justify-content: center;
+        margin: auto;
+
+    }
+    */ .forunderlyingimg33 img{
+        display: none;
+    }
+    .secondarea{
+        display: flex;
+        flex-direction: column;
+        width: 90%;
+        margin: auto;
+        justify-content: center;
+        align-items: center;
+    
+
+    }
+
+    .fordifferentimages img{
+    
+            width: 30%;
+            padding-bottom: 0.12rem;
+        }
+        
+    .fordifferentimages{
+        border-bottom: 3px solid grey;
+    }
+    .fordisplayflexrow{
+        display: flex;
+       width: 90%;
+       margin: auto;
+    }
+    .remove{
+        display: none;
+    }
+    .center{
+        text-align: center;
+    
+    }
+    .forrows{
+        display: flex;
+        flex-direction: column;
+    }
+    .minitext{
+        margin: auto;
+        width: 90%;
+        padding-top: 1.62rem;
+        padding-bottom: 1.02rem;
+
+
+    }
+
+.visible{
+    display: inline-block;
+}
+    
+.justwow{
+    display: flex;
+    gap: 0.62rem;
+    flex-direction: column;
+}
+
+ .tuche{
+    flex-grow: 1;
+    text-align: left;
+ }
+.nexttoend{
+    display: flex;
+    flex-direction: column;
+}
+.beforefooter{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.atextandimg{
+    display: flex;
+    flex-direction: column;
+}
+
+.manipulator{
+    display: flex;
+    justify-content: start;
+    flex-wrap: wrap;
+    align-items: start;
+    gap: 3.67rem;
+/*     flex-wrap: wrap;
+ */    width: 100%;
+}
+.endgames{
+    flex-grow: 1;
+    flex-basis: 1rem;
+    flex-direction: column;
+    display: flex;
+}
+.fordifferentlinks31{
+    display: flex;
+    flex-grow: 2;
+    flex-basis: 5rem;;
+     }
+
+.lastone{
+    display: flex;
+    flex-direction: column;
+}
+.linksandimages{
+    margin-right: 16em;
+}
+.doneanddusted{
+    margin-left: 6rem;
+    padding-bottom: 2rem;
+    
+}
+
+
+.fa-burger{
+    visibility: visible;
+}
+
+
